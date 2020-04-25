@@ -6,9 +6,14 @@ In this project, I build a facial keypoint detection system. The system consists
 
 **Concepts : Face Detection, Haar Cascades, CNNs, keypoints**
 
-** Results :**
+**Results :**
+
+Michelle and Barack Obama 
 
 ![Test Image 7](https://github.com/george-kalitsios/Project-Facial-Keypoint-Detection/blob/master/Images/result.png)
+
+Mona Lisa 
+
 ![Test Image 7](https://github.com/george-kalitsios/Project-Facial-Keypoint-Detection/blob/master/Images/result2.png)
 
 
