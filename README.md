@@ -8,6 +8,7 @@ In this project, I build a facial keypoint detection system. The system consists
 
 <br/>
 <br/>
+
 **Results :**
 
 Michelle and Barack Obama 
@@ -17,8 +18,8 @@ Michelle and Barack Obama
 Mona Lisa 
 
 ![Test Image 7](https://github.com/george-kalitsios/Project-Facial-Keypoint-Detection/blob/master/Images/result2.png)
-
-
+<br/>
+<br/>
 **Notebook 1 : Loading and Visualizing the Facial Keypoint Data**
 
 **Notebook 2 : Defining and Training a Convolutional Neural Network (CNN) to Predict Facial Keypoints**
@@ -27,6 +28,6 @@ Mona Lisa
 
 **Notebook 4 : Fun Filters and Keypoint Uses**
 <br/>
-
+<br/>
 The Udacity repository for this project: [Facial Keypoint Detection : Project Overview](https://github.com/udacity/P1_Facial_Keypoints).
 
