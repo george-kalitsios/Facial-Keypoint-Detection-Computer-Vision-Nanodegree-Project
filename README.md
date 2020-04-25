@@ -6,6 +6,9 @@ In this project, I build a facial keypoint detection system. The system consists
 
 **Concepts : Face Detection, Haar Cascades, CNNs, keypoints**
 
+**Results :**
+
+![Test Image 7](https://github.com/george-kalitsios/Project-Facial-Keypoint-Detection/blob/master/Images/result.png)
 
 
 **Notebook 1 : Loading and Visualizing the Facial Keypoint Data**
@@ -15,10 +18,6 @@ In this project, I build a facial keypoint detection system. The system consists
 **Notebook 3 : Facial Keypoint Detection Using Haar Cascades and your Trained CNN**
 
 **Notebook 4 : Fun Filters and Keypoint Uses**
-
-![Test Image 7](https://github.com/george-kalitsios/Project-Facial-Keypoint-Detection/blob/master/Images/obamas.jpg)
-
-
 
 The Udacity repository for this project: [Facial Keypoint Detection : Project Overview](https://github.com/udacity/P1_Facial_Keypoints).
 
