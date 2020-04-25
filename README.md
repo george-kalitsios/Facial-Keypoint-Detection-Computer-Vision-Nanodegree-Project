@@ -9,3 +9,5 @@ Notebook 2 : Defining and Training a Convolutional Neural Network (CNN) to Predi
 Notebook 3 : Facial Keypoint Detection Using Haar Cascades and your Trained CNN
 
 Notebook 4 : Fun Filters and Keypoint Uses
+
+The Udacity repository for this project: https://github.com/udacity/P1_Facial_Keypoints
