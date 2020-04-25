@@ -6,6 +6,8 @@ In this project, I build a facial keypoint detection system. The system consists
 
 **Concepts : Face Detection, Haar Cascades, CNNs, keypoints**
 
+
+
 **Results :**
 
 Michelle and Barack Obama 
@@ -24,6 +26,7 @@ Mona Lisa
 **Notebook 3 : Facial Keypoint Detection Using Haar Cascades and your Trained CNN**
 
 **Notebook 4 : Fun Filters and Keypoint Uses**
+
 
 The Udacity repository for this project: [Facial Keypoint Detection : Project Overview](https://github.com/udacity/P1_Facial_Keypoints).
 
